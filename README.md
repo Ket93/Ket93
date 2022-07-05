@@ -2,7 +2,7 @@
 
 <!--
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazraKet93)](https://github.com/Ket93/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ket93)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
