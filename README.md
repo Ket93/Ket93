@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hey, I'm Kevin! 👋
 
 <!--
-**Ket93/Ket93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazraKet93)](https://github.com/Ket93/github-readme-stats)
 
 Here are some ideas to get you started:
 
