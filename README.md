@@ -1,4 +1,4 @@
-### Hey, I'm Kevin! 👋
+## Hey, I'm Kevin! 👋
 
 🔭 Currently I am ...
 * 🎓 2A - CS BBA @ UW/WLU '26
