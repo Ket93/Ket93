@@ -2,7 +2,7 @@
 
 🔭 Currently I am ...
 * 🎓 2A - CS BBA @ UW/WLU '26
-* 💻 Full-Stack Developer Intern at Caribou Contests
+* 💻 Software Developer Intern @ Trend Micro
 * 🏀 Playing sports during my free time
 
 
