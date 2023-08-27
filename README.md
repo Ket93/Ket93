@@ -1,8 +1,8 @@
 ## Hey, I'm Kevin! 👋
 
 🔭 Currently I am ...
-* 🎓 2A - CS BBA @ UW/WLU '26
-* 💻 Software Developer Intern @ Trend Micro
+* 🎓 3A - CS BBA @ UW/WLU '26
+* 💻 Prev Software Developer Intern @ Trend Micro, Caribou Contests
 * 🏀 Playing sports during my free time
 
 
